@@ -5,7 +5,7 @@ Originally these notebooks were developed as workshop for the integrated researc
 
 ## License
 
-![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 This work is if not otherwise stated licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 See the section below for third party contents and the corresponding licenses.
