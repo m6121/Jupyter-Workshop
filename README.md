@@ -12,7 +12,7 @@ See the section below for third party contents and the corresponding licenses.
 
 Please use the Zenodo reference:
 
-**TODO insert ZENODO LINK**
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4085067.svg)](https://doi.org/10.5281/zenodo.4085067)
 
 In order to reference the GitHub repository, please attribute this as:
 
