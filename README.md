@@ -16,7 +16,7 @@ Please use the Zenodo reference:
 
 In order to reference the GitHub repository, please attribute this as:
 
-Max Schröder and Frank Krüger. “Jupyter Workshop,” https://github.com/SFB-ELAINE/Jupyter-Workshop
+Max Schröder and Frank Krüger. “Jupyter Workshop,” https://github.com/m6121/Jupyter-Workshop
 
 ### Third Party Contents
 
